@@ -19,8 +19,8 @@ god dang it it just says SparXSS
 
 <img width="336" height="23" alt="image" src="https://github.com/user-attachments/assets/bfcdaaba-de2d-48a5-a769-9e7a9b8277a8" />
 
-
-
+sorry but your gonna have to type that :/ 
+until method 2 comes out
 
 Create your own link redirect! (Only use if you know what ur doing)
 <a href="LinkGoesHere!">SparXSS</a>
